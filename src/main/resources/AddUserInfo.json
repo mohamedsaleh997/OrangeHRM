@@ -1,0 +1,10 @@
+{
+    "role" : "Admin",
+    "status": "enabled",
+    "employeeName": "rahul das",
+    "password" : "Test@1234",
+    "passwordConfirm": "Test@1234"
+
+  }
+
+
