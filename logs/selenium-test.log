@@ -1,9 +1,0 @@
-2025-03-05 13:42:20.194 [main] INFO  c.t.u.LoggerUtil - ****  Start Of The Execution  ****
-2025-03-05 13:42:20.288 [main] ERROR c.t.u.LoggerUtil - 1 exception(s): [org.apache.commons.io.IOIndexedException: IOException #0: Cannot delete file: logs\selenium-test.log]
-2025-03-05 13:42:26.567 [main] INFO  c.t.u.LoggerUtil - Test loginTest Started
-2025-03-05 13:42:27.385 [main] INFO  c.t.u.LoggerUtil - Test loginTest Passed
-2025-03-05 13:42:27.391 [main] INFO  c.t.u.LoggerUtil - Test addUserCheck Started
-2025-03-05 13:42:38.430 [main] INFO  c.t.u.LoggerUtil - Test addUserCheck Passed
-2025-03-05 13:42:38.432 [main] INFO  c.t.u.LoggerUtil - Test deleteUserCheck Started
-2025-03-05 13:42:40.489 [main] INFO  c.t.u.LoggerUtil - Test deleteUserCheck Passed
-2025-03-05 13:42:40.728 [main] INFO  c.t.u.LoggerUtil - **** Execution Finished  ****

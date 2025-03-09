@@ -52,17 +52,10 @@ public class AdminPage {
         return this;
     }
 
-
-
     public AddUserPage navigateToNewUserPage(){
         ElementActions.btnClick(driver ,addUserBtn);
         return new AddUserPage(driver);
     }
-
-
-
-
-
 
 
 }

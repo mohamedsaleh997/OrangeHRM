@@ -22,9 +22,7 @@ public class LoginPage {
     private final  By loginBtn = By.cssSelector("button[type='submit']");
 
 
-
     //Actions
-
     public LoginPage navigateToLoginPage(String url){
         BrowserActions.getUrl(driver , url);
         return this;
@@ -45,9 +43,7 @@ public class LoginPage {
     }
 
     //Assertions
-
     public void landing_On_LoginPage_Assertion(){
-
         Assert.assertTrue(driver.getCurrentUrl().contains("opensource-demo"));
     }
 
